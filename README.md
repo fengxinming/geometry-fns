@@ -6,6 +6,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/geometry-fns.svg?style=flat)](https://npmjs.org/package/geometry-fns)
 [![NPM Downloads](https://img.shields.io/npm/dm/geometry-fns.svg?style=flat)](https://npmjs.org/package/geometry-fns)
+[![](https://data.jsdelivr.com/v1/package/npm/geometry-fns/badge)](https://www.jsdelivr.com/package/npm/geometry-fns)
 
 
 ## Installation

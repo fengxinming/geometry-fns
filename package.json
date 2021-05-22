@@ -1,6 +1,6 @@
 {
   "name": "geometry-fns",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of functions for working with points geometry.",
   "main": "index.js",
   "module": "./es/index.js",

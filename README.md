@@ -1,6 +1,12 @@
 # geometry-fns
 
+[![npm package](https://nodei.co/npm/geometry-fns.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/geometry-fns)
+
 > A collection of functions for working with points geometry.
+
+[![NPM version](https://img.shields.io/npm/v/geometry-fns.svg?style=flat)](https://npmjs.org/package/geometry-fns)
+[![NPM Downloads](https://img.shields.io/npm/dm/geometry-fns.svg?style=flat)](https://npmjs.org/package/geometry-fns)
+
 
 ## Installation
 
